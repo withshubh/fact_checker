@@ -113,3 +113,5 @@ def run_fact_checker():
         else:
             print("\n⚠️ No verdict was generated. Check your graph logic.")
 
+if __name__ == "__main__":
+    run_fact_checker()
